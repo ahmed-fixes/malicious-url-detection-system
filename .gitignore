@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+dataset/
+model/
+
+.venv/
+venv/
+
+.vscode/
+.idea/  
